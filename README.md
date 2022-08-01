@@ -1,6 +1,6 @@
-# CatBoot example for Java
+# CatBoost example for Java
 
-The simplest CatBoot for Java example.
+The simplest CatBoost for Java example.
 
 ## Build
 ```
@@ -11,3 +11,5 @@ gradle build
 ```
 gradle run
 ```
+
+P.S. You should first compile the model in `*.cbm` file format.
